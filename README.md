@@ -36,6 +36,7 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
 - 🏢 Building Full-Stack solutions (Spring Boot + React) and working with **Liferay** at **Egarsat**.
 - 🎓 Formalizing my foundations — Bachelor's in Computer Software Engineering at **UOC**.
 - 🔬 Co-author of the research portal **[The Mutational Landscape of SARS-CoV-2](http://sarscov2-mutation-portal.urv.cat)** with **Universitat Rovira i Virgili**.
+- 🌐 Personal portfolio → **[rubenitx.me](https://rubenitx.me)**
 - 🌱 Currently diving into **LLMs** and the potential of **smart contracts** on-chain.
 - 💬 Ask me about **Spring Boot, React, Liferay, or system design**.
 
@@ -96,6 +97,9 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
   </a>
   <a href="mailto:rmartbernabe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://rubenitx.me">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=2196F3" alt="Portfolio"/>
   </a>
   <a href="http://sarscov2-mutation-portal.urv.cat">
     <img src="https://img.shields.io/badge/Research-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Research"/>
