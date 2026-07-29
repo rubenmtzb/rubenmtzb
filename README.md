@@ -1,21 +1,26 @@
-<h1 align="center">Hi there, I'm Rubén 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00E5FF&height=180&section=header&text=Hi%20there,%20I'm%20Rub%C3%A9n%20%E2%9A%A1&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
 <h3 align="center">Full-Stack Engineer · Research Contributor · Building in quiet mode</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+Egarsat;Java+%2B+Spring+Boot+%2B+React;Liferay+%26+DevOps+Enthusiast;Exploring+LLMs+%26+Smart+Contracts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%40+Egarsat;Java+%2B+Spring+Boot+%2B+React;Liferay+%26+DevOps+Enthusiast;Exploring+LLMs+%26+Smart+Contracts;Godspeed%3A+ON+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rubenitx&label=Profile%20views&color=2196F3&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rubenitx&label=Profile%20views&color=00D9FF&style=flat" alt="profile views" />
 </p>
 
 <br/>
 
 I'm a **Full-Stack Developer** focused on transforming complex problems into efficient, scalable and robust software for large-scale projects. I care about clean architecture, pragmatic decisions, and systems that age well.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### 💻 Tech Stack
 
@@ -29,7 +34,9 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
   <img src="https://skillicons.dev/icons?i=nodejs,tailwind,kubernetes,postgres,mongodb,git,linux&perline=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### 🚀 About Me
 
@@ -37,10 +44,12 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
 - 🎓 Formalizing my foundations — Bachelor's in Computer Software Engineering at **UOC**.
 - 🔬 Co-author of the research portal **[The Mutational Landscape of SARS-CoV-2](http://sarscov2-mutation-portal.urv.cat)** with **Universitat Rovira i Virgili**.
 - 🌐 Personal portfolio → **[rubenitx.me](https://rubenitx.me)**
-- 🌱 Currently diving into **LLMs** and the potential of **smart contracts** on-chain.
+- ⚡ Currently diving into **LLMs** and the potential of **smart contracts** on-chain.
 - 💬 Ask me about **Spring Boot, React, Liferay, or system design**.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### 🔨 Currently Building
 
@@ -48,7 +57,9 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
 >
 > A modular platform designed for independent evolution of the financial engine and the client layer. Focused on clean domain boundaries, observability, and long-term maintainability.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### 🔬 Featured Research
 
@@ -59,7 +70,9 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
   Interactive portal for exploring mutations across the SARS-CoV-2 genome. Built in collaboration with <strong>Universitat Rovira i Virgili</strong> — contributing to the intersection of software engineering and bioinformatics.
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### ☕ Special Touches
 
@@ -69,10 +82,13 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
 
 <p align="center">
   <em>Building solid architectures, fueled by coffee.<br/>
-  Leveraging AI to code faster — not to think less.</em>
+  Leveraging AI to code faster — not to think less.<br/>
+  ⚡ Nen type: Transmutation — turns caffeine into commits.</em>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### 🎧 Coding Soundtrack
 
@@ -87,7 +103,9 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
   <em>Downtempo, electronic textures and ambient beats<br/>for long coding sessions.</em>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A84FF,100:00E5FF&height=3&width=850" />
+</p>
 
 ### 📫 Let's Connect
  
@@ -99,7 +117,7 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
     <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://rubenitx.me">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=2196F3" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=00D9FF" alt="Portfolio"/>
   </a>
   <a href="http://sarscov2-mutation-portal.urv.cat">
     <img src="https://img.shields.io/badge/Research-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Research"/>
@@ -108,4 +126,8 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
 
 <p align="center">
   <i>Open to conversations about ambitious backend, full-stack or research-oriented projects.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0A84FF&height=120&section=footer&animation=fadeIn" />
 </p>
