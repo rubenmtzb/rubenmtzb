@@ -77,7 +77,7 @@ I'm a **Full-Stack Developer** focused on transforming complex problems into eff
 ### ☕ Special Touches
 
 <p align="center">
-  <img src="claude.gif" width="220" alt="Claude AI Pixel Art">
+  <img src="claudeV2.gif" width="220" alt="Claude AI Pixel Art">
 </p>
 
 <p align="center">
